@@ -8,7 +8,7 @@ Whether you're a technician or a user troubleshooting your own device, understan
 
 
 
-## [👉👉 Samsung FRP Tool](https://freesoftcr.com/dl)
+## [👉👉 Samsung FRP Tool](https://freesoftcr.com/dl/)
 
 
 
